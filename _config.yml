@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "요무덴노"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/ava.png"
   bio              : "이것이 바로 **염재민**의 페이지라 이말이야"
   location         : "평양, 북한"
   email            :
